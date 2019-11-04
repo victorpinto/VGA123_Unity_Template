@@ -1,6 +1,5 @@
 
-
-> Written with [StackEdit](https://stackedit.io/).
+**VGA123 Unity Template**
 > **Using this template:**
 
 Most of this template file come from the Unity Github, you can find out plenty more information here [Unity Standard Assets Character Github](https://github.com/Unity-Technologies/Standard-Assets-Characters) 
@@ -180,5 +179,5 @@ Character Input:
 #
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzYyNjk5M119
+eyJoaXN0b3J5IjpbMTMyODI3NjY4Nl19
 -->
