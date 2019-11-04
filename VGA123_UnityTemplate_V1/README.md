@@ -1,3 +1,16 @@
+
+
+> Written with [StackEdit](https://stackedit.io/).
+> **Using this template:**
+
+Most of this template file come from the Unity Github, you can find out plenty more information here [Unity Standard Assets Character Github](https://github.com/Unity-Technologies/Standard-Assets-Characters) 
+
+The Character Github page includes everything about the character controller minus the event trigger system we will be working with in class. 
+
+This ReadMe will include instructions on how to use the EventTriggers Script for the purpose of triggering animations and the like. 
+
+
+
 # Standard Assets: Character Package (BETA)
 
 Note: this project is work in progress and currently considered a beta. It contains dependency on packages such as our new Input System which is in preview, and as such will continue to be in beta so long as it relies on in Preview tech. We will ship this content as a package in 2019.
@@ -166,3 +179,6 @@ Character Input:
 
 #
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ5NzYyNjk5M119
+-->
