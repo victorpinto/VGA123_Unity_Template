@@ -10,7 +10,13 @@ The Character Github page includes everything about the character controller min
 This ReadMe will include instructions on how to use the EventTriggers Script for the purpose of triggering animations and the like. 
 
 ## EventTriggers Script
+### Steps: ###
+
+ 1. Create Trigger Volume
+ 2. Drag 
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDA3OTAwNF19
+eyJoaXN0b3J5IjpbNDAwODUyMTQwXX0=
 -->
