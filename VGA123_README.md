@@ -14,11 +14,11 @@ This ReadMe will include instructions on how to use the EventTriggers Script for
 
  1. Create an Empty Game Object as your Event System
  2. Add EventTriggers script to your new EventSystem Game Object
- 3. Create Trigger Volume, we will use this trigger to check if the player or pickup object is inside of our trigger 
- 4. Drag Trigger Volume Object into the event trigger 
+ 3. Create Trigger Volume, this is the mesh our script will check if the player or pickup object has entered or exited 
+ 4. Drag Object that will trigger the event system into the appropriate area [IMAGE OF INSPECTOR] 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTE2Njk5N119
+eyJoaXN0b3J5IjpbODQyOTMwMTQwXX0=
 -->
