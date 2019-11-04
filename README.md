@@ -18,9 +18,10 @@ This ReadMe will include instructions on how to use the EventTriggers Script for
  4. Drag Object that will trigger the event system into the appropriate area [IMAGE OF INSPECTOR] 
  5. Choose Animator from the list of functions, then select ***Animator.Play***
  6. Type the name of your animation into the form [IMAGE OF INSPECTOR]
+ 7. Test by walking your player into the animation area
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzA2Njc1MF19
+eyJoaXN0b3J5IjpbMTY5MzUwNTk1XX0=
 -->
