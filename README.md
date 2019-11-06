@@ -20,7 +20,7 @@ When an object in the "Objects That Trigger" list **Exits** this object's Trigge
 **Setup**
 
  1. Drag the EventTriggers Script onto a Trigger Volume 
- 2. Set the size of "Objects that Trigger" to how ever many objects 
+ 2. Set the size of "Objects that Trigger" to how ever many objects you would like to be able to trigger these events. 
  3. Drag in the Player Character, or any other object that you wish to trigger the events into 
 
  
@@ -28,5 +28,5 @@ When an object in the "Objects That Trigger" list **Exits** this object's Trigge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY4NzEyNjhdfQ==
+eyJoaXN0b3J5IjpbLTEyMzE3OTU2OTBdfQ==
 -->
