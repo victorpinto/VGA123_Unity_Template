@@ -26,7 +26,7 @@ When an object in the "Objects That Trigger" list **Exits** this object's Trigge
 From here you have several choices..
 #### *Customization* 
  ##### Press Button (OnTriggerStay)
- If you tick off the Press Button Checkbox, you also need to specify a button you would like to use in the **Button Choice** form. This setting will allow you to press a button, when a game object in
+ If you tick off the Press Button Checkbox, you also need to specify a button you would like to use in the **Button Choice** form. This setting will check for a button press, when a game object in the "Objects That Trigger" list, **stays** in the collider of the object with this script attached to it, you
 ##### Reload Scene (OnTriggerEnter)
 if you tick off the Reload Scene Checkbox, it will turn your trigger volume into a death trigger, that reloads the current scene. Primitive, but effective. 
 
@@ -36,5 +36,5 @@ if you tick off the Reload Scene Checkbox, it will turn your trigger volume into
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTg2OTM1MSwtMTIzMTc5NTY5MF19
+eyJoaXN0b3J5IjpbLTI4ODEyMjY4LC0xMjMxNzk1NjkwXX0=
 -->
