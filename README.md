@@ -23,14 +23,17 @@ When an object in the "Objects That Trigger" list **Exits** this object's Trigge
  2. Set the size of "Objects that Trigger" to how ever many objects you would like to be able to trigger these events. 
  3. Drag in the Player Character, or any other game object that you wish to trigger the events into the "Element" slot od the EventTriggers script. 
 
-From here you have several choices 
-**DeathBox (OnTriggerEnter)**
-if you tick off 
+From here you have several choices..
+ 
+**Reload Scene(OnTriggerEnter)**
+if you tick off the Reload Scene Checkbox, it will turn your trigger volume into a death triox, that reloads the current scene. Primitive, but effective. 
+
+**strong text**
 
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjA4ODA4NSwtMTIzMTc5NTY5MF19
+eyJoaXN0b3J5IjpbNTYwOTY1NDc4LC0xMjMxNzk1NjkwXX0=
 -->
