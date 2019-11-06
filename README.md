@@ -24,10 +24,10 @@ When an object in the "Objects That Trigger" list **Exits** this object's Trigge
  3. Drag in the Player Character, or any other game object that you wish to trigger the events into the "Element" slot od the EventTriggers script. 
 
 From here you have several choices..
- 
- **Press Button (OnTriggerStay)**
- If you tick off the Press Button Checkbox, you also need to specify a button you would like to use in the **Button Choice** form. 
-**Reload Scene (OnTriggerEnter)**
+#### *Customization* 
+ ##### Press Button (OnTriggerStay)**
+ If you tick off the Press Button Checkbox, you also need to specify a button you would like to use in the **Button Choice** form. This setting will allow 
+##### Reload Scene (OnTriggerEnter)**
 if you tick off the Reload Scene Checkbox, it will turn your trigger volume into a death trigger, that reloads the current scene. Primitive, but effective. 
 
 **strong text**
@@ -37,5 +37,5 @@ if you tick off the Reload Scene Checkbox, it will turn your trigger volume into
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODMwNTc5NiwtMTIzMTc5NTY5MF19
+eyJoaXN0b3J5IjpbODU3MzMzMTc0LC0xMjMxNzk1NjkwXX0=
 -->
