@@ -8,11 +8,11 @@ You can find information about their package here, it is included in this projec
 ## INSTRUCTIONS 
 ### Scripts: 
 
-**EventTriggers** 
-The Event Triggers 
+**EventTriggers Script** 
+The EventTriggers script can do all sorts of things. It functions by checking to see if an object in its "Objects That Trigger" list has interacted with  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNTkwMjA4XX0=
+eyJoaXN0b3J5IjpbNDM2OTI4MjcwXX0=
 -->
