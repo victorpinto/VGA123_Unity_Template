@@ -7,8 +7,7 @@ You can find information about their package here, it is included in this projec
 
 ## INSTRUCTIONS 
 ### Scripts: 
-
-**EventTriggers Script** 
+#### EventTriggers Script:
 The EventTriggers script can do all sorts of things. It functions by checking to see if an object in its "Objects That Trigger" list has interacted with the game object with the EventTriggers script attached. It does this in three key ways:
 
  **1. **OnTriggerEnter****
@@ -18,8 +17,7 @@ When an object in the "Objects That Trigger" list **stays** inside this object's
  **3. OnTrigger Exit**
 When an object in the "Objects That Trigger" list **Exits** this object's Trigger Volume, run a function. 
 
-
-
+## Heading
 
 
  
@@ -27,5 +25,5 @@ When an object in the "Objects That Trigger" list **Exits** this object's Trigge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODIzMzgxN119
+eyJoaXN0b3J5IjpbLTEwODQ5NDAyMjddfQ==
 -->
