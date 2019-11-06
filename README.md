@@ -5,9 +5,9 @@
 You can find information about their package here, it is included in this project:
 [https://github.com/victorpinto/VGA123_Unity_Template/tree/master/VGA123_UnityTemplate_V2](https://github.com/victorpinto/VGA123_Unity_Template/tree/master/VGA123_UnityTemplate_V2)
 
-## INSTRUCTIONS 
-### Scripts: 
-#### EventTriggers Script:
+# INSTRUCTIONS 
+## Scripts: 
+### EventTriggers Script:
 The EventTriggers script can do all sorts of things. It functions by checking to see if an object in its "Objects That Trigger" list has interacted with the game object with the EventTriggers script attached. It does this in three key ways:
 
  **1. **OnTriggerEnter****
@@ -38,5 +38,5 @@ if you tick off the Reload Scene Checkbox, it will turn your trigger volume into
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NDc3OTc3LC0xMjMxNzk1NjkwXX0=
+eyJoaXN0b3J5IjpbLTM3MDg5MzExMCwtMTIzMTc5NTY5MF19
 -->
