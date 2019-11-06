@@ -5,7 +5,6 @@
 You can find information about their package here, it is included in this project:
 [https://github.com/victorpinto/VGA123_Unity_Template/tree/master/VGA123_UnityTemplate_V2](https://github.com/victorpinto/VGA123_Unity_Template/tree/master/VGA123_UnityTemplate_V2)
 
-# INSTRUCTIONS 
 ## Scripts: 
 ### EventTriggers Script:
 The EventTriggers script can do all sorts of things. It functions by checking to see if an object in its "Objects That Trigger" list has interacted with the game object with the EventTriggers script attached. It does this in three key ways:
@@ -31,6 +30,7 @@ From here you have several choices..
 if you tick off the Reload Scene Checkbox, it will turn your trigger volume into a death trigger, that reloads the current scene. Primitive, but effective. 
 
 #### Notes: 
+When checking for collision, at least 1 object must have a Rigidbody component. If you do not want that object to be effected by physics, check off the box isKinematic. 
 
 
  
@@ -38,5 +38,5 @@ if you tick off the Reload Scene Checkbox, it will turn your trigger volume into
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDg5MzExMCwtMTIzMTc5NTY5MF19
+eyJoaXN0b3J5IjpbMTQxNTY1ODY2MywtMTIzMTc5NTY5MF19
 -->
