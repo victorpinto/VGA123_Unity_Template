@@ -19,13 +19,14 @@ When an object in the "Objects That Trigger" list **Exits** this object's Trigge
 
 **Setup**
 
- 1. Drag the EventTriggers Script onto a Trigger Object 
- 2. Drag in the Player Character, or any other object that you wish to trigger the events 
+ 1. Drag the EventTriggers Script onto a Trigger Volume 
+ 2. Set the size of "Objects that Trigger" to how ever many objects 
+ 3. Drag in the Player Character, or any other object that you wish to trigger the events into 
 
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODc0NDkwNl19
+eyJoaXN0b3J5IjpbLTIwNzY4NzEyNjhdfQ==
 -->
