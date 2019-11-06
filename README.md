@@ -13,14 +13,15 @@ The EventTriggers script can do all sorts of things. It functions by checking to
 	
 
  1. OnTriggerEnter
-This one is easy 
+When an object in the "Objects That Trigger" list **first** enters this objects Trigger Volume, run a function.   
  2. OnTriggerStay
- 3. OnTrigger Exit
+On TriggeWhen an object in the "Objects That Trigger" list **first** enters this objects Trigger Volume, run a function.  
+ 4. OnTrigger Exit
 
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI3OTIzMTFdfQ==
+eyJoaXN0b3J5IjpbLTExNDU0Nzc4MzddfQ==
 -->
