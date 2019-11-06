@@ -17,13 +17,15 @@ When an object in the "Objects That Trigger" list **stays** inside this object's
  **3. OnTrigger Exit**
 When an object in the "Objects That Trigger" list **Exits** this object's Trigger Volume, run a function. 
 
-## Heading
+**Setup**
 
+ 1. Drag the EventTriggers Script onto a Trigger Object 
+ 2. Drag in the Player Character, or any other object that you wish to trigger the events 
 
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ5NDAyMjddfQ==
+eyJoaXN0b3J5IjpbMTQ5ODc0NDkwNl19
 -->
