@@ -9,20 +9,23 @@ You can find information about their package here, it is included in this projec
 ### Scripts: 
 
 **EventTriggers Script** 
-The EventTriggers script can do all sorts of things. It functions by checking to see if an object in its "Objects That Trigger" list has interacted with the game object with the EventTriggers script attached. It does this in three key ways 
-	
+The EventTriggers script can do all sorts of things. It functions by checking to see if an object in its "Objects That Trigger" list has interacted with the game object with the EventTriggers script attached. It does this in three key ways:
 
- 1. OnTriggerEnter
+ **1. **OnTriggerEnter****
 When an object in the "Objects That Trigger" list **first** enters this object's Trigger Volume, run a function.   
- 2. OnTriggerStay
-When an object in the "Objects That Trigger" list **stay** inside this object's Trigger Volume, run a function.  
- 4. OnTrigger Exit
+ **2. OnTriggerStay**
+When an object in the "Objects That Trigger" list **stays** inside this object's Trigger Volume, run a function.  
+ **3. OnTrigger Exit**
 When an object in the "Objects That Trigger" list **Exits** this object's Trigger Volume, run a function. 
+
+
+
+
 
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTQ1NDk2N119
+eyJoaXN0b3J5IjpbLTc5ODIzMzgxN119
 -->
