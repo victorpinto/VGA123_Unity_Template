@@ -4,7 +4,7 @@
 
 You can find their package here [[https://github.com/Unity-Technologies/Standard-Assets-Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters)](https://github.com/Unity-Technologies/Standard-Assets-Characters)
 
-(This package 
+You can also find it in the VGA123_UnityTemplate_V2 folder as README (The Unity version will slowly become updated and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM0NzQ3MDddfQ==
+eyJoaXN0b3J5IjpbLTIxMzY5MjY0ODFdfQ==
 -->
