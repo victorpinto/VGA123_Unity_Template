@@ -21,12 +21,16 @@ When an object in the "Objects That Trigger" list **Exits** this object's Trigge
 
  1. Drag the EventTriggers Script onto a Trigger Volume 
  2. Set the size of "Objects that Trigger" to how ever many objects you would like to be able to trigger these events. 
- 3. Drag in the Player Character, or any other object that you wish to trigger the events into 
+ 3. Drag in the Player Character, or any other game object that you wish to trigger the events into the "Element" slot od the EventTriggers script. 
+
+From here you have several choices 
+**DeathBox (OnTriggerEnter)**
+if you tick off 
 
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE3OTU2OTBdfQ==
+eyJoaXN0b3J5IjpbMTI1NjA4ODA4NSwtMTIzMTc5NTY5MF19
 -->
