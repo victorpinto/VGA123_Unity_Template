@@ -5,9 +5,14 @@
 You can find information about their package here, it is included in this project:
 [https://github.com/victorpinto/VGA123_Unity_Template/tree/master/VGA123_UnityTemplate_V2](https://github.com/victorpinto/VGA123_Unity_Template/tree/master/VGA123_UnityTemplate_V2)
 
-### IN
+## INSTRUCTIONS 
+### Scripts: 
+
+**EventTriggers** 
+The Event Triggers 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0NzM4NjUxXX0=
+eyJoaXN0b3J5IjpbODkzNTkwMjA4XX0=
 -->
