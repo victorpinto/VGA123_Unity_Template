@@ -184,7 +184,6 @@ Transform:
   - {fileID: 4096076504012324}
   - {fileID: 4229565065102588}
   - {fileID: 4965941078013748}
-  - {fileID: 8376878533020888718}
   m_Father: {fileID: 4049837283954470}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -527,6 +526,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4010075451907072}
+  - {fileID: 4706258913726546938}
   m_Father: {fileID: 4864594930687814}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -912,6 +912,7 @@ GameObject:
   - component: {fileID: 54341791654325916}
   - component: {fileID: 114299815650658612}
   - component: {fileID: 114403526203746496}
+  - component: {fileID: 6530303066215960769}
   - component: {fileID: 114317971631851810}
   m_Layer: 11
   m_Name: Third Person (Male)
@@ -1281,6 +1282,22 @@ MonoBehaviour:
     m_ShowHeadGizmos: 1
     m_HeadCurrentDirection: {r: 1, g: 0, b: 0, a: 1}
     m_HeadDesiredDirection: {r: 0, g: 0, b: 1, a: 1}
+--- !u!114 &6530303066215960769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294013925418394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 609ce7cda7a6ad747b950f73f820efb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Acceleration: 0.1
+  m_Deceleration: 0.1
+  m_XAxisMultiplier: 5
+  m_YAxisMultiplier: 0.05
 --- !u!114 &114317971631851810
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1295,16 +1312,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TouchControlsPrefab: {fileID: 1201311427779892, guid: 412a843d79095470db5a469eead8163c,
     type: 3}
-  m_InvertX: 0
-  m_InvertY: 0
   m_CameraLookSensitivity:
     m_MouseVertical: 1
     m_MouseHorizontal: 1
-    m_GamepadVertical: 1
-    m_GamepadHorizontal: 1
+    m_GamepadVertical: 0.5
+    m_GamepadHorizontal: 0.5
     m_TouchVertical: 0.5
     m_TouchHorizontal: 0.5
   m_CursorLocked: 1
+  m_InvertX: 0
+  m_InvertY: 0
 --- !u!1 &1320574585163914
 GameObject:
   m_ObjectHideFlags: 0
@@ -1687,6 +1704,7 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -2807,7 +2825,7 @@ Transform:
   m_Father: {fileID: 4596516572987410}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &5200428711080818058
+--- !u!1 &3649783801765653828
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2815,7 +2833,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8376878533020888718}
+  - component: {fileID: 4706258913726546938}
   m_Layer: 0
   m_Name: PickupPoint
   m_TagString: Untagged
@@ -2823,17 +2841,17 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8376878533020888718
+--- !u!4 &4706258913726546938
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5200428711080818058}
+  m_GameObject: {fileID: 3649783801765653828}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.162, y: -0.137, z: -8.70292e-17}
+  m_LocalPosition: {x: -0.07436844, y: -0.16, z: -4.7639846e-17}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 4957739389364666}
-  m_RootOrder: 3
+  m_Father: {fileID: 4730163377792506}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
