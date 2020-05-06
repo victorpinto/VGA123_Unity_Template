@@ -1,5 +1,5 @@
 # VGA123_Unity_Template
- V2
+ V3
  The majority of this package comes from Unity's Standard assets github, with some modifications by me, to include some simple, extendable scripts for Artists to work with - no code involved. 
 
 You can find information about their package here, it is included in this project:
